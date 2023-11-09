@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329466231942",
+    "project_id": "snappic-9a7ad",
+    "storage_bucket": "snappic-9a7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329466231942:android:97d35a64209a2b74a7a507",
+        "android_client_info": {
+          "package_name": "com.example.snap_pic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZgnxNJrntgLBsT96vXAuIo9m1606x4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
